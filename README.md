@@ -3,10 +3,10 @@
 
 # 💫 About Me:
 
-👨‍💻 <a href="https://theophilus.dev" target="_blank">My Personal Website</a> <br>
+👨‍💻 [My personal website](https://theophilus.dev) <br> <br>
 🌱 I’m currently learning Java & DevOps<br>
 💬 Ask me about anything Software Engineering<br>
-⚡ Fun fact I'm a huge Manchester United fan
+⚡ Fun fact I'm a huge Manchester United fan 🔴 
 
 ## 🌐 Socials:
 
