@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 
-👨‍💻 [My portfolio website](https://theophilus.dev) <br>
+👨‍💻 <a href="https://theophilus.dev" target="_blank">My Personal Website</a> <br>
 🌱 I’m currently learning Java & DevOps<br>
 💬 Ask me about anything Software Engineering<br>
 ⚡ Fun fact I'm a huge Manchester United fan
