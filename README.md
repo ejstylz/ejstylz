@@ -4,7 +4,7 @@
 # 💫 About Me:
 
 👨‍💻 [My personal website](https://theophilus.dev) <br>
-🌱 I’m currently learning Go & GCP<br>
+🌱 Currently learning Go<br>
 💬 Ask me about anything Software Engineering<br>
 ⚡ Fun fact: I'm a huge Man Utd fan 🔴 
 
