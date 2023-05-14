@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Theo</h1>
+<h1 align="center">Hi 👋🏼 I'm Theo</h1>
 <h3 align="center">I am a Software Engineer skilled in both the aesthetic and logical aspects of building applications that solve real-world problems.</h3>
 
 # 💫 About Me:
